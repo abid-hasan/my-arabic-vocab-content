@@ -41,20 +41,21 @@ def main():
                 '--pattern', name, '--dir', str(target))
             if sha256(target / name) != book['sha256']:
                 raise SystemExit(f'Published book mismatch: {name}')
-    existing = subprocess.run(['gh', 'api', f'repos/{repository}/releases/tags/{tag}'],
-        cwd=ROOT, capture_output=True, text=True)
-    if existing.returncode == 0:
-        release = json.loads(existing.stdout)
+    # Draft releases may not resolve through the release-by-tag REST endpoint.
+    releases = json.loads(run('gh', 'api', '--paginate', '--slurp',
+        f'repos/{repository}/releases?per_page=100'))
+    release = next((r for page in releases for r in page if r['tag_name'] == tag), None)
+    if release is not None:
         if not args.resume_draft or not release['draft'] or release['target_commitish'] != commit:
-            raise SystemExit('Release already exists. Published releases are never replaced; only same-commit drafts can be resumed explicitly.')
-    elif '404' in existing.stderr:
+            raise SystemExit('Release already exists. Only same-commit drafts can be resumed explicitly.')
+    else:
         if args.resume_draft:
             raise SystemExit('No draft exists to resume.')
         run('gh', 'release', 'create', tag, '--repo', repository, '--draft', '--target', commit,
             '--title', f'Vocabulary content {catalog["version"]}', '--notes-file', str(ROOT / 'RELEASE.md'))
-        release = json.loads(run('gh', 'api', f'repos/{repository}/releases/tags/{tag}'))
-    else:
-        raise SystemExit('Unable to check existing release; no mutation attempted.')
+        releases = json.loads(run('gh', 'api', '--paginate', '--slurp',
+            f'repos/{repository}/releases?per_page=100'))
+        release = next(r for page in releases for r in page if r['tag_name'] == tag)
     existing_assets = {a['name'] for a in release['assets']}
     local_assets = {p.name for p in folder.iterdir()}
     if existing_assets - local_assets:
