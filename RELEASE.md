@@ -1,13 +1,12 @@
-# Vocabulary content 1
+# Vocabulary content 2
 
-Initial SQLite snapshot matching the app's bundled book databases:
+Adds the owner-authorized Haiyya Alal Arabiyyah publisher snapshot: 202 Arabic words
+with Bengali meanings. Three books now contain 1,146 entries.
 
-- 125 Words: 125 entries with English meanings.
-- Esho Arbi Shikhi: 819 entries with Bengali meanings.
-- Catalog schema 1; minimum reader version 1.
+125 Words (125) and Esho Arbi Shikhi (819) retain their exact published v1 bytes,
+UUIDs and original content-v1 download URLs. Haiyya is book version 1; catalog
+version is 2, schema and minimum reader version remain 1.
 
-Assets include `catalog.sqlite`, two versioned book databases, `SHA256SUMS`,
-these release notes and `SOURCES.md`. Existing stable entry/meaning IDs are preserved.
-The source row with missing Arabic and the unavailable remote-only Haiyya book are
-excluded; see `SOURCES.md`. App installation continues to use its bundled snapshot;
-this release does not itself enable client updates.
+The publisher export contains vocabulary only, not account emails, Hard flags or
+personal progress. Ordering follows the source document IDs, not a claimed book
+chapter sequence. See SOURCES.md for provenance and stable identity policy.

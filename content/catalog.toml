@@ -1,7 +1,7 @@
 [catalog]
 repository = "abid-hasan/my-arabic-vocab-content"
-release_tag = "content-v1"
-version = 1
+release_tag = "content-v2"
+version = 2
 schema_version = 1
 min_reader_version = 1
 
@@ -29,4 +29,17 @@ min_reader_version = 1
 entry_count = 819
 release_tag = "content-v1"
 sha256 = "70b2343626ae33d0df24a7bc12fa86c9c9467b7572845adfda8424bb640a8fd7"
+source_notice = "Repository vocabulary assets; see content/books/README.md"
+
+[[books]]
+id = "haiyya-alal-arabiyyah"
+title_en = "Haiyya Alal Arabiyyah"
+title_bn = "হাইয়া আলাল আরাবিইয়াহ"
+language = "bn"
+version = 1
+schema_version = 1
+min_reader_version = 1
+entry_count = 202
+release_tag = "content-v2"
+sha256 = "cf20607bfdf91f4125ee99b79316520edc77ec307ff0d24606363c8e01dddd3b"
 source_notice = "Repository vocabulary assets; see content/books/README.md"

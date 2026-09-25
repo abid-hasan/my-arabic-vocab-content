@@ -13,13 +13,19 @@ https://github.com/Abid-Hasan/my_arabic_vocab
   `অভিমুখী হওয়া`, volume 2, chapter 1, original timeModified
   `2013-02-28T00:00:00.000`. It remains in the original JSON and is not invented
   or silently counted as usable vocabulary. An editor must supply the source word.
-- The remote-only Haiyya book is unavailable until an authorized export is provided.
+- `haiyya-alal-arabiyyah`: 202 valid rows exported with the owner's authorization
+  on 2026-09-25 from the published client's Haiyya source collection in the
+  `my-arabic-vocab` Firebase project. Only `text` and `definition` become content.
+  Source document ID is retained as `source_row`; stable UUIDv5 entry/meaning IDs
+  derive from that publisher identity, never from the vocabulary text. Preserve
+  these IDs for future edits. No chapter/volume metadata was available; display
+  order follows source document ID. No malformed row was excluded.
 
 UUIDs were assigned once and persisted here. They are not row numbers, text hashes
 or normalized Arabic. Preserve entry_id and meaning_id when editing text or order;
 never recycle removed IDs. source_row is provenance, not identity. Same spelling
 and different meanings remain separate entries. The original JSON is retained for
-legacy compatibility and provenance; only the separate legacy entry point uses it.
+legacy compatibility and provenance; the fresh-start app does not bundle or read it.
 
 Version 1 preserves the app's bundled development snapshot byte for byte and is
 prepared for an initial remote release. The original source does not establish a new

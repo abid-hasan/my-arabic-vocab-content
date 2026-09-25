@@ -3,7 +3,7 @@
 Public SQLite book distribution for My Arabic Vocab. This repository holds editorial
 sources and release tooling; user accounts, progress and private data do not belong here.
 
-Initial content: **2 books, 944 entries** (125 English meanings and 819 Bengali meanings).
+Current prepared content: **3 books, 1,146 entries** (125 English meanings and 1,021 Bengali meanings).
 See [source notes](content/books/README.md) for provenance and exclusions.
 
 ## Build and publish
@@ -18,7 +18,7 @@ python3 tools/publish_release.py
 python3 tools/publish_release.py --publish
 ```
 
-The first two commands only prepare local files in `dist/content-v1/`. Publication
+The first two commands only prepare local files in `dist/content-v2/`. Publication
 creates a draft, uploads assets, downloads and verifies every asset, then publishes.
 For an interrupted draft on the same source commit, use `--publish --resume-draft`.
 Published releases are never overwritten by the tool.
@@ -29,7 +29,7 @@ After the initial release is published, the catalog endpoint is:
 
 https://github.com/abid-hasan/my-arabic-vocab-content/releases/latest/download/catalog.sqlite
 
-This URL is not live until publication. The catalog contains metadata and one row per
+The endpoint is live; it serves content-v1 until content-v2 is published. The catalog contains metadata and one row per
 book: stable book ID, localized titles, content/schema/minimum reader versions, entry
 count, filename, size, SHA-256 and a version-specific release download URL.
 Book files contain `books`, `entries` and `meanings`; see `content/book-schema.sql`.
