@@ -1,0 +1,32 @@
+[catalog]
+repository = "abid-hasan/my-arabic-vocab-content"
+release_tag = "content-v1"
+version = 1
+schema_version = 1
+min_reader_version = 1
+
+[[books]]
+id = "125-words"
+title_en = "125 essential words"
+title_bn = "১২৫টি প্রয়োজনীয় শব্দ"
+language = "en"
+version = 1
+schema_version = 1
+min_reader_version = 1
+entry_count = 125
+release_tag = "content-v1"
+sha256 = "876dc343095cc92e7103de97055ae8190eb47c74bb0325dc177062b28abe77ad"
+source_notice = "Repository vocabulary assets; see content/books/README.md"
+
+[[books]]
+id = "esho-arbi-shikhi"
+title_en = "Esho Arbi Shikhi"
+title_bn = "এসো আরবি শিখি"
+language = "bn"
+version = 1
+schema_version = 1
+min_reader_version = 1
+entry_count = 819
+release_tag = "content-v1"
+sha256 = "70b2343626ae33d0df24a7bc12fa86c9c9467b7572845adfda8424bb640a8fd7"
+source_notice = "Repository vocabulary assets; see content/books/README.md"

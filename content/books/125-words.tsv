@@ -1,0 +1,126 @@
+entry_id	meaning_id	arabic	meaning	sort_order	source_volume	source_chapter	source_row
+f09d7a42-d4d2-44ff-8333-f7379ed28344	924b7741-587b-40cb-8b96-33ccda3ec57b	ٱللَّهُ	Allah	1			1
+af6bf2bc-b489-4684-b055-918e81b906bb	018484ad-07b6-4e57-b5c9-2e47cbca9a41	الشَّيْطَان	Satan	2			2
+91840d55-283d-481d-8416-5ff85f0bdc01	8a9fc285-a775-4b28-a691-c92b900e0e0c	هُوَ	he	3			3
+5c0ee5a1-3f2b-40ef-b963-b339955559c1	898bbc13-c428-4ca9-acfe-a516a74266f8	هُمْ	they	4			4
+dffae382-9f2e-4113-858f-4caf55272158	6e5fd85a-b81c-467e-baf8-514b90d83e4f	أَنتَ	you	5			5
+00bf105e-a204-4d04-800b-234e4c711b6a	61e0ebe4-da7a-4145-a3e8-6bda18272839	أَنَا۠	I	6			6
+ade1d38a-9c0c-4c6e-93af-1b7c0c2780bf	ec10a15c-0d80-4a68-a828-cbdb711b82a6	أَنتُمْ	you all	7			7
+e077c9d2-e9c8-4bf6-a9ce-ea6c4b4fc851	a6247372-8458-432f-9820-15790b1a7b38	نَحْنُ	we	8			8
+7f016ece-f4b1-4860-bf54-cdbbebc874d4	ec9fb592-ea23-4014-ad50-c791d4349b3b	مَنْ	who	9			9
+b269b292-ced8-488f-9e77-927c0207b024	4e12c3d0-4fcd-4841-8a6b-81f4cb61eac2	هَلْ	Is, Do, Are...?	10			10
+1107ea50-a7b1-4551-b613-fd141e81523e	32e4fbcd-e59e-4a4e-87f9-92ca71844d32	خَيْرُ	best	11			11
+5146f395-d680-4e54-9872-64318dcbb7e4	fd98414d-5270-4b8b-b003-75d6b338874a	اِسْم	name	12			12
+54e2f70e-5cae-46ff-bccf-9e53757ba8d9	8adb4f1f-1110-43de-ad98-560babe9914e	اَلرَّحْمٰن	the most gracious	13			13
+1d8a50ba-1be7-4e00-966c-2fdb399cf752	e1de1ad0-bda3-4126-bd18-4aca40fa293b	اَلرَّحِيْم	the most merciful	14			14
+66494a48-5f70-45f9-a208-9dd69300e0d6	c0bf5f8d-b2fe-406b-9208-28d5816164c6	اَلْكَرِيْم	generous	15			15
+cf8a18e6-e51a-4645-becf-48b7fad611a3	df03de40-3690-4c24-ac4f-b87b27f0efae	ٱلْحَمْدُ	all praises and thanks	16			16
+97f11674-aacc-4ece-b94a-75e87af9b1ea	93d52481-4853-4de4-9db2-9de6ebedd587	لِلَّهِ	for Allah / to Allah	17			17
+fc7b7e75-19b7-46e6-836c-1ad3259891b4	31054a6e-6db2-46bd-845d-3e29d766b0f8	ٱلْعَٰلَمِينَ	the worlds	18			18
+86234caf-2795-476c-91d8-ba320a7d7d78	483d0807-af2c-4e0b-9ee7-c76875051753	مُّسْلِم	muslim	19			19
+9ffc9e12-2267-4b82-af71-009bd40abcc5	d78c9b31-3560-49a0-b6d3-70796f4983a2	مُّؤْمِن	believer	20			20
+1aef64d9-30d2-403f-b3aa-21cb8b7f6ea9	4e6111f1-2923-47fc-8e6f-cc40773539c0	مُشْرِك	polytheist	21			21
+3b211102-5c10-4e93-ae69-3c35936b5c47	f214a01b-61f0-4242-928f-b2f63c5919c1	كَٰفِر	disbeliever	22			22
+5a40e53a-669c-4517-ac0b-d2ab961a0085	5d20279b-11b8-42ca-9caf-dbf1beb206c4	صَٰلِح	a righteous person	23			23
+90f189f8-10f5-4083-8ff6-b7204488771e	e09ab131-31f9-4b24-96b6-a1e00c44f74d	يَوْم	day	24			24
+3f0a98f7-49e1-4486-af30-5467a2dd1098	661a9151-f420-4102-9579-f6de821a71c8	ٱلدِّين	the judgement	25			25
+356cda5a-31a1-4295-a2f8-19ffc48834ff	9ec38c87-f9d0-4b08-b732-2faee7650326	إِيَّاكَ	you alone	26			26
+87ae28a4-2d37-462b-8a71-5d82c370ce27	2e47037c-ae70-4e1d-bd0f-924b9c455d1c	رَبّ	Lord	27			27
+0f22a68c-4fb7-494b-be60-5251a3064aac	eef96965-12d2-4f43-80b0-0549e1ef1617	مَا	that which	28			28
+58f6db04-41bc-4d70-9510-172b75d94350	e7c79472-0b36-4ab7-8f12-526dce63cfb3	ٱلصِّرَٰط	the path	29			29
+55ea56a2-ddef-4abc-8567-6b1b0119f9cd	9aceebef-6810-473b-8284-bb4edd127511	ٱلْمُسْتَقِيم	the straight	30			30
+d8cb4b26-9655-43ba-b0a0-2a21fe3f7e57	54b82162-1c92-42f9-bf46-df62957cbaa1	ٱلَّذِينَ	(of) those	31			31
+987fdf93-5329-426c-8082-fa4e0cc7a3c1	37616f9f-ad35-413d-b79f-3fb2d4b3b62b	غَيْر	not (of)	32			32
+7024366e-1254-4aba-a1da-590000eabc56	48a687c4-df04-495b-bd10-9b226b0b1a71	لَا	not	33			33
+457758af-e1cc-4d46-b11e-a3511d76ddfb	c48d174b-7485-4c8e-9804-14bd0ec34e37	ٱلضَّآلِّينَ	those who go astray	34			34
+a5eccd0d-620d-451d-8f02-58836c4dc6ca	6517b9b5-6f38-4447-be79-7db54f567a6e	هِىَ	it; she	35			35
+b5c3a47b-f849-4359-9129-60a960ce1f3d	f686ac48-716f-4f25-a3ef-e438fac38484	كِتَٰب	a book	36			36
+7ec37e4a-b2c8-4912-8d8c-4abdb125188a	6f62d294-5989-417c-9ef2-dd1a2e3fd3b2	أَنزَلْنَٰ	we revealed	37			37
+a218b131-a9c0-4ca6-b110-5c1723c7db8d	1e6dc813-da45-4611-b8d6-7e47bca0b425	ايَٰت	sign/verse	38			38
+6eed671f-92d9-4ae4-a0cf-51a922465ac3	4bef42ea-dbaa-4089-bd14-dc9551763ffa	ٱلْأَرْضِ	the earth	39			39
+7b1d9390-9677-496d-8882-7df9d7c4543d	bde08ad6-e534-45e5-aa6a-b0fafc3dace4	اَلسَّمآء	the heaven	40			40
+dcfec0c3-a8b9-4e8a-bc6f-e37f9ed46831	21ca1d59-8a29-480b-a409-d01007db2a55	أُو۟لُوا۟	those of..	41			41
+9bbcc8c9-da90-4f54-bff9-e7987093d40c	57d755dc-6c23-4256-80ce-c991c7020bdf	لَوْ	if	42			42
+88b1b411-f44e-4f22-82c0-288652634353	350343fb-1b9d-4f43-9ae0-2d2d7c686390	لِ	for	43			43
+f1b6c413-8ec8-45a9-96a6-c8bbad8cebc5	7285beaa-9262-462b-aafc-13a19554e7f4	مِنْ	from	44			44
+a90a2145-9603-4dba-afd7-4bcfd003bafa	5208d6a7-d39c-4dbe-80a3-7fcd48d79cab	عَنْ	with	45			45
+004c03db-f4a1-4e22-a9c9-322fa0ecb8b7	adcd7d64-1dc0-49a3-8b20-d339a8be57a7	لَقَدْ	certainly	46			46
+fe0a480b-0853-4ebd-9a6a-c1ff829976fc	7febbbc7-fe25-4330-a83f-555577567173	ٱلْقُرْءَان	the Quran	47			47
+de1b6142-e6cd-4c46-8e66-d0b028bcf40e	da3921f2-c947-421f-82bf-9f1cb33459c3	إِن	if	48			48
+757de5f8-6e87-40a4-a1ac-6e421b0e570d	ba8d6156-a290-4291-bb14-d91006b10ef3	شَآءَ	wills	49			49
+0cd10cd7-1def-46b3-b520-b75ac051875e	7459e187-c627-48c5-9e3b-567c5bd88251	إِنَّ	indeed	50			50
+5a653900-46d8-4336-acf0-3f4b73d555bd	bc18b1a5-34b3-4be2-bb1a-842af5818375	إِنَّمَا	only	51			51
+2624b7e2-d75b-4236-9477-391987164c4b	1996b053-b829-431b-8a24-b569946fd2eb	عمَل	deed	52			52
+2a77ffb4-1809-4676-8e0f-d8693a28fb5e	0747774c-6c7f-40de-be5e-b69212cbbf3e	بِ	in	53			53
+ebe81eed-7ddb-47a4-b2e2-f10212a9ade3	c55525ab-b34a-4920-a0b3-9b51d4471461	فِى	in/into	54			54
+0852dcf1-3d43-448e-b54f-3996f67c6876	8a83b94f-3760-4ea4-83a1-a8ec972b646d	ٱلسَّبِيل	the way	55			55
+20a91727-c084-4300-8bf3-a536aad44259	0342f8ed-b8b7-444b-b65d-16ff96ac3ade	عَلٰى	on; upon	56			56
+f2fc7359-58ab-41db-a961-681174ba5468	5e0b0451-9067-4ace-9aa8-d47a36b12605	ٱلَّذِى	(the one) who	57			57
+5a1103bd-013b-4126-8bb9-21a6f59fa39a	4e620e11-5cb4-4db4-8196-e7863817addc	اَيٌّ	which	58			58
+64325683-e544-4eca-8d52-6775c447e375	28950ff0-71b6-4612-9d43-71ddaa18f294	أَحْسَن	best	59			59
+9fe5fb5d-465a-42df-bd49-94f336fbec70	420435e6-d3f7-4c33-a7bd-2546656548c0	اِلٰى	to	60			60
+d8321a7a-429a-4ac4-9f76-1024746c4bf8	3247e9df-6043-41b3-9c62-a9916dad99dd	مَعَ	with	61			61
+4dc20d35-0a33-4994-acd5-da7cafe9a957	ecee5bd2-02b8-4a1e-a996-8a71c8011b17	عِندَ	with	62			62
+585cc924-4f96-49c6-a69d-78e4d0e7277c	7ed3c4d5-12b1-41cd-9129-3a60cb723a28	ٱلْإِنسَٰن	the mankind	63			63
+16ebd9e3-8aa3-4a0c-b76b-e7f4d597b497	b7b3276d-ed43-46fa-a7a6-f5715f82fdee	إِلَّا	except	64			64
+6d047c0b-9ecf-4f5b-8dec-21b780cab338	d4110f68-d39c-42aa-a367-8592aaf6e77e	اٰمَنُوْا	they believed	65			65
+29ffac92-2d87-402a-9dfa-736997d33cf2	20992dc7-c7ad-4b35-ad2d-3eb1e728bdba	ٱلْحَقّ	the truth	66			66
+420ca5c1-58e6-47e2-ae38-922ed711d17c	5da75413-1dcc-4bd4-af07-c6e23505d101	اَوْ	or	67			67
+917aa949-b190-49c6-b345-c5ced93aef1a	98d5fe44-ee51-49ce-90b0-88392468bf13	هٰذَا	this (masculine)	68			68
+2a5df52b-ad3f-4ef7-90bf-b01b1907f1bc	e48dbd72-7856-4e0d-bbfa-c29d7ec3fa61	هٰذِهٖ	this (feminine)	69			69
+7e9c9a30-ade6-411e-9d03-870059be4778	69036a4f-012a-4696-9e9c-ce11cf48b813	ذٰلِكَ	that (masculine)	70			70
+67a3a477-f699-4179-ba38-a9740a100dc1	ba7f9bd0-da05-4a5b-9d14-d5d311999a65	تِلْكَ	that (feminine)	71			71
+c0caeb98-ad86-4835-972b-a661ad0d8b44	f176eca0-0e73-496b-b6bd-132f1ef43b19	هَٰٓؤُلَآءِ	these	72			72
+0be6f280-0976-4f6d-b098-6797e7f82a68	0d7945b4-6ba9-4a9f-a560-122b8d14a3ba	أُو۟لَٰٓئِكَ	those	73			73
+0c4d3f3b-35ee-4fb4-b739-455fcdc690c4	9bef3b66-fb19-483c-87c3-8b158237ae7b	إِذْ	when (past)	74			74
+f5ec8680-6c70-4bff-9954-3bf7f1777092	07de5146-cdbc-493f-afed-6e3c895cca62	إِذَا	when/if/so (future)	75			75
+9d4d04da-a81d-45f6-8d0b-86d1e552ae07	0bf9c38c-be94-4adf-b183-87efc283a722	جَآءَ	he came	76			76
+7c009793-97ce-493b-a991-ae7789a3249c	e81a28cc-4c64-4c04-816c-5d13dc5ed238	ٱلنَّاس	the people	77			77
+403d09f5-edd0-4299-8d97-f57f8a215bfd	b2b0155a-469e-479e-b11d-1de146c40fb8	فَعَلَ	he did	78			78
+66aa5195-21a1-4832-9f95-cb5129d1d955	a6e0e909-7d5e-4d1c-8482-bd4c4388c2f5	جَعَلَ	he made / he set	79			79
+7a07124f-429d-46cf-80e0-3081344ade4c	9ab862ea-8aa2-46f5-9a31-26155de54663	فَتَحَ	he opened / he revealed	80			80
+41ecd133-0d9f-4235-b5f5-6756266728b5	18c089c7-e8a6-4993-8d12-870fadbb08d0	قُلْ	say	81			81
+8ded4f62-de9a-43d9-8fc7-a79bae4f35c7	e03693cf-1a05-4a30-b61e-20a56325f810	أَحَد	the One	82			82
+add4da9a-094a-4646-8a57-5b267c2c855f	cae6f4f8-919f-4bf3-9d88-49d275ef9997	لَمْ	not	83			83
+4ec7754a-3b38-4b75-b3d8-4c4d97b32202	a061b9c3-5ec7-4d54-9176-1a8b74d25303	لَن	never	84			84
+083538f9-646d-466a-b2c7-cedab1fccdb1	d7a11919-c5c5-41eb-ad4a-73273de1ff99	نَصْرُ	help	85			85
+dda5dfa2-be37-4300-85ea-215b32133fc1	cfccff7c-62ba-49ac-8de7-a818498f8e7a	خَلَقَ	he created	86			86
+43bdbdd9-7baa-4a2d-a43f-9aeba201435a	9cb130c8-522e-4cbf-8762-fb59df6ee829	ذَكَرَ	he remembered	87			87
+24728b6c-c130-4eae-8e4f-62794442da47	223cc7ce-e251-4c55-8f7f-882c2b20708e	عَبَدَ	he worshipped	88			88
+fbdc8a00-a462-4b0f-a413-9d3b6b19d042	d5106fed-87ed-43dd-a6bd-9b05e00bf133	شَىْء	thing	89			89
+0f166d10-207b-402d-8df7-9f1feb6b0540	e3161546-54d5-4c1d-8d40-77afe7568fdb	ضَرَبَ	he hit / he stroke	90			90
+4a883d92-f7ff-4af8-8728-993beb6c100b	67760988-0bab-4a4e-a33b-955f43ea5107	سَمِعَ	he listened	91			91
+fe9a1f5c-a937-407f-ab2b-3590e24e64ea	551aa843-41ae-4297-8ed1-e8f96dd66a33	عَلِمَ	he knew	92			92
+a0967f2d-6da0-4c60-9d11-8aaf8f68f41c	d4dd1374-6292-4757-8a6a-1d081669a37f	عَمِلَ	he did	93			93
+4ade60ee-5d91-4c72-b5f2-be753f0d8e75	8755548b-7e42-4c76-b0b5-03d86e51ef77	حَدِيث	statement; story	94			94
+893b9b50-f286-41c0-b788-eea651ddb2c6	01abf237-92f6-411b-bfb1-f81b8791a7a6	إِلَٰهِ	the God	95			95
+6543bfcb-3be7-4a8d-bdee-6b2ebaf583ef	4c00b241-305e-4994-9e12-ea23cb875371	صَدْر	chest	96			96
+52100892-fce5-46cf-a46f-b3ed1b50a9fe	a4fb5b0e-bef4-4cbf-834c-b048c328bb16	مَلَك	angel	97			97
+b1f7a09e-5ae8-414a-8055-9f2dde0fac6b	414c8aa5-b781-4ee8-816e-32502a5a65a9	جِنَّة	jinn	98			98
+e73083bb-ab23-4319-a3f5-f739bc40bd0f	9a340f4c-d299-44b8-88e0-cb1e108c37b0	يا	o; oh	99			99
+a1c34073-2f4c-4ac8-818c-2f0ba630afc2	1fd72a84-20ef-4e55-8e23-bc5b1d08a132	قَوْم	people	100			100
+b9248c79-f132-41cb-9fbf-422c65faf6dc	d08be9d8-d8aa-4b72-b99a-9739d2ce1ca2	أَيُّهَا	o; oh	101			101
+0dd47567-bb14-4cf1-ac7f-aff4e7fe40c6	4a53682e-9255-43ad-bffd-0a9376769533	اَنْ	that	102			102
+2cfaf4b7-c0d0-4011-924b-cde59afcc7d2	0740a3e8-882c-4fc9-968f-0ccce6914178	اَنَّ	that	103			103
+015dc2e8-8368-46f1-838a-183306fccfa3	354d0db3-1cbd-489a-9233-79a0d51a19a3	مُحَمَّد	Muhammad	104			104
+040a41f8-c913-4bf0-bd12-f590d8d51b2d	228ce9dc-4d1a-492c-91ce-fff56609c652	رَسُوْل	messenger	105			105
+6737d08f-ed6c-4a0b-9645-9f1f155103a6	76942599-07e3-4dbd-8c27-b93c7f01014c	اَلصَّلٰوة	the prayer	106			106
+7b0f210e-93a7-4882-8413-cadf5ec265fd	38dd1a9c-e80a-47f0-bd6b-40652cb4bdd3	شَرِيْك	partner	107			107
+914351c6-28f7-4931-a549-7a1eba29f682	cc14250d-ea87-4610-b50b-3904ff707363	مَاذَا	what	108			108
+af9c0881-8d66-47aa-95a9-e66898375aa3	486132d1-aebc-4a9c-8074-10d7a9070d6b	سُبْحَٰنَ	glory	109			109
+3285bcf3-6ab7-4ad6-927d-3b65efb8cb20	33bff985-da3a-4585-a5ea-ebd1ce0c3b09	ٱلْعَظِيم	the great	110			110
+9049dc51-3bf9-43bc-9447-01c29c361738	96501bf3-8722-40bc-828e-29d3d3196304	طَيِّبَات	good things	111			111
+9ae23b64-1187-4ed0-8d66-cbca56806c44	d9e2b588-5679-44a8-a0da-eb764d12d8b5	سَلَٰم	peace	112			112
+de5c8cbe-388a-450b-83b1-9b73e3b79616	fd243207-323d-4b31-9600-47cb499b1c96	ٱلنَّبِىّ	the prophet	113			113
+d77296ce-30ad-4720-85f4-49d53a6a45a5	ef3b485b-4ad8-41bf-8a37-b6054bf1cf67	رَحْمَة	mercy	114			114
+a4c0392c-df8a-40b2-b2ba-201babcf5e14	90c5bbc6-1f21-4c0e-a72b-965672df1667	عِبَاد	slaves; servants	115			115
+ec69f0ef-a5d6-4c7f-a0b0-611668ec3077	a7229fea-3cc8-4a5f-b118-db5932cd6c44	سَوْفَ	soon	116			116
+6a7a554a-b7c4-4daa-b465-a77bf31ae8d8	314b71fd-d6f6-4573-8482-33708c95b09f	إِبْرَٰهِيم	Ibrahim	117			117
+d3666c35-548c-434e-ab96-ef3f798e9b86	4c43ad81-4a7b-419a-aa41-5ba41eef9946	نَفْس	soul	118			118
+c0cea9f7-6602-4bd7-b4b8-7c8f4aa11354	e280d34f-d135-45a8-9e99-90894b72af28	كَثِير	much	119			119
+399a5693-94ff-4b5a-b0bc-3dbcf6960612	19947de2-de82-48cf-80ab-45e881a73456	اَلذُّنُوْب	the sins	120			120
+5b4572ca-2b65-47b5-8867-3f615bf507f6	c39545b3-3d61-4396-a73f-92391f02f985	غَفُور	oft-forgiving	121			121
+608ee855-b6c1-49da-b2ef-fc7b4617790b	2ef32d7f-ee49-420b-8a24-1f566f7401d6	ٱلدُّنْيَا	the world	122			122
+ce51762b-4540-4278-a4cf-1f447b9f8d2f	e4803521-86e5-47d8-ac04-f56457fcd167	اَلْاٰخِرَة	the hereafter	123			123
+fb8a018c-9780-44eb-9059-cb068970954a	ad6373b7-5adb-4f50-9c14-98c45aae6e1e	عَذَاب	punishment	124			124
+faea428b-2bda-4788-a448-45bf445ce584	340b7d6c-8459-4bf7-9235-d2d174777f3f	ٱلنَّار	the fire	125			125
